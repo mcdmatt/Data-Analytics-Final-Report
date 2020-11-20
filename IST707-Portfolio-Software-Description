@@ -1,0 +1,8 @@
+Software:
+The software used for this project was RStudio Version 1.1.463 or higher in conjunction with the R Console 3.6.2 GUI 1.70 El Capitan build (7735).
+
+Project Description:
+This project entailed combining 4 machine learning algorithms/techniques for a report to predict a successful shot and successful won game from an NBA dataset.
+My portion of the project dealt with SVM analysis, which is outlined in my code provided for the master code.
+The report then combines all of our different machine learning and compares the highest accuracies and lowest accuracies. 
+There are also useful visualizations provided, such as in my R code some ROC threshold plotting to illustrate how good the model is.
